@@ -1,0 +1,44 @@
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\bin\Debug\About.dll
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojResolveAssemblyReference.cache
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+C:\Users\IR\Desktop\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\bin\Debug\About.dll
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojResolveAssemblyReference.cache
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+C:\Users\IR\Desktop\Tray\Article_src\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
+E:\_PROJ\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb
+E:\_PROJ\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+E:\_PROJ\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojResolveAssemblyReference.cache
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
+E:\_PROJ\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.About.resources
+E:\VS\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb
+E:\VS\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+E:\VS\Tray minimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojResolveAssemblyReference.cache
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.About.resources
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
