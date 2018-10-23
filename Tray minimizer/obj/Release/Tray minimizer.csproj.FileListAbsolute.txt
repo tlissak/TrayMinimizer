@@ -15,3 +15,19 @@ E:\_PROJ\Tray minimizer\Tray minimizer\obj\Release\Tray minimizer.pdb
 E:\_PROJ\vs Tray minimizer\Tray minimizer\bin\Release\Tray minimizer.exe.config
 E:\_PROJ\vs Tray minimizer\Tray minimizer\obj\Release\Tray minimizer.exe
 E:\_PROJ\vs Tray minimizer\Tray minimizer\obj\Release\Tray minimizer.pdb
+C:\htdocs\trayminimizer\Tray minimizer\bin\Release\Tray minimizer.exe.config
+C:\htdocs\trayminimizer\Tray minimizer\bin\Release\Tray minimizer.exe.manifest
+C:\htdocs\trayminimizer\Tray minimizer\bin\Release\Tray minimizer.application
+C:\htdocs\trayminimizer\Tray minimizer\bin\Release\Tray minimizer.exe
+C:\htdocs\trayminimizer\Tray minimizer\bin\Release\Tray minimizer.pdb
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray_minimizer.About.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray_minimizer.Form1.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray_minimizer.Options.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray_minimizer.Properties.Resources.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.csproj.GenerateResource.cache
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.csproj.CoreCompileInputs.cache
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.TrustInfo.xml
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.exe.manifest
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.application
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.exe
+C:\htdocs\trayminimizer\Tray minimizer\obj\Release\Tray minimizer.pdb

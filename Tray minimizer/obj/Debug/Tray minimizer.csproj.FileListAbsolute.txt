@@ -42,3 +42,20 @@ E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
 E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
 E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
 E:\VS\Tray minimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.Cache
+C:\htdocs\trayminimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.config
+C:\htdocs\trayminimizer\Tray minimizer\bin\Debug\Tray minimizer.exe.manifest
+C:\htdocs\trayminimizer\Tray minimizer\bin\Debug\Tray minimizer.application
+C:\htdocs\trayminimizer\Tray minimizer\bin\Debug\Tray minimizer.exe
+C:\htdocs\trayminimizer\Tray minimizer\bin\Debug\Tray minimizer.pdb
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.csprojAssemblyReference.cache
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray_minimizer.About.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray_minimizer.Form1.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray_minimizer.Options.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray_minimizer.Properties.Resources.resources
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.GenerateResource.cache
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.csproj.CoreCompileInputs.cache
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.TrustInfo.xml
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.exe.manifest
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.application
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.exe
+C:\htdocs\trayminimizer\Tray minimizer\obj\Debug\Tray minimizer.pdb

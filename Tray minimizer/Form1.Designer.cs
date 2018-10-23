@@ -37,6 +37,7 @@ namespace Tray_minimizer
             this.alltray = new System.Windows.Forms.ToolStripMenuItem();
             this.Exititem = new System.Windows.Forms.ToolStripMenuItem();
             this.Abouttoolstrip = new System.Windows.Forms.ToolStripMenuItem();
+            this.label1 = new System.Windows.Forms.Label();
             this.AppContextMenu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,10 +45,10 @@ namespace Tray_minimizer
             // 
             this.Tray.BalloonTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.Tray.BalloonTipText = "Right click on this icon to minimize a window to tray.\r\nUse quick commands or hot" +
-                "keys to process all windows\r\nDouble-click for options";
+    "keys to process all windows\r\nDouble-click for options";
             this.Tray.BalloonTipTitle = "Tray minimizer";
             this.Tray.ContextMenuStrip = this.AppContextMenu;
-            this.Tray.Icon = Properties.Resources.icon;
+            this.Tray.Icon = global::Tray_minimizer.Properties.Resources.icon;
             this.Tray.Text = "Tray minimizer\r\nDouble-Click for options";
             this.Tray.Visible = true;
             this.Tray.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.Tray_MouseDoubleClick);
@@ -61,14 +62,14 @@ namespace Tray_minimizer
             this.Abouttoolstrip});
             this.AppContextMenu.Name = "AppContextMenu";
             this.AppContextMenu.ShowImageMargin = false;
-            this.AppContextMenu.Size = new System.Drawing.Size(129, 76);
+            this.AppContextMenu.Size = new System.Drawing.Size(144, 76);
             this.AppContextMenu.Closed += new System.Windows.Forms.ToolStripDropDownClosedEventHandler(this.AppContextMenu_Closed);
             this.AppContextMenu.Opening += new System.ComponentModel.CancelEventHandler(this.AppContextMenu_Opening);
             // 
             // Separator
             // 
             this.Separator.Name = "Separator";
-            this.Separator.Size = new System.Drawing.Size(125, 6);
+            this.Separator.Size = new System.Drawing.Size(140, 6);
             // 
             // quick
             // 
@@ -77,14 +78,14 @@ namespace Tray_minimizer
             this.all,
             this.alltray});
             this.quick.Name = "quick";
-            this.quick.Size = new System.Drawing.Size(128, 22);
+            this.quick.Size = new System.Drawing.Size(143, 22);
             this.quick.Text = "Quick commands";
             // 
             // all
             // 
             this.all.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.all.Name = "all";
-            this.all.Size = new System.Drawing.Size(121, 22);
+            this.all.Size = new System.Drawing.Size(125, 22);
             this.all.Text = "Show All";
             this.all.Click += new System.EventHandler(this.all_Click);
             // 
@@ -92,36 +93,47 @@ namespace Tray_minimizer
             // 
             this.alltray.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.alltray.Name = "alltray";
-            this.alltray.Size = new System.Drawing.Size(121, 22);
+            this.alltray.Size = new System.Drawing.Size(125, 22);
             this.alltray.Text = "All to tray";
             this.alltray.Click += new System.EventHandler(this.alltray_Click);
             // 
             // Exititem
             // 
             this.Exititem.Name = "Exititem";
-            this.Exititem.Size = new System.Drawing.Size(128, 22);
+            this.Exititem.Size = new System.Drawing.Size(143, 22);
             this.Exititem.Text = "Exit";
             this.Exititem.Click += new System.EventHandler(this.Exititem_Click);
             // 
             // Abouttoolstrip
             // 
             this.Abouttoolstrip.Name = "Abouttoolstrip";
-            this.Abouttoolstrip.Size = new System.Drawing.Size(128, 22);
+            this.Abouttoolstrip.Size = new System.Drawing.Size(143, 22);
             this.Abouttoolstrip.Text = "About";
             this.Abouttoolstrip.Click += new System.EventHandler(this.Abouttoolstrip_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(69, 46);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(111, 13);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "This is hidden window";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(227, 210);
+            this.ClientSize = new System.Drawing.Size(246, 106);
+            this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.ShowInTaskbar = false;
-            this.Text = "Form1";
+            this.Text = "Main Window";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.AppContextMenu.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -135,6 +147,7 @@ namespace Tray_minimizer
         private System.Windows.Forms.ToolStripMenuItem all;
         private System.Windows.Forms.ToolStripMenuItem alltray;
         private System.Windows.Forms.ToolStripMenuItem Abouttoolstrip;
+        private System.Windows.Forms.Label label1;
     }
 }
 
